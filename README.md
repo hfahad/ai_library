@@ -1,4 +1,4 @@
-# ai_application
+# ai_library
 This repository contains code for a Convolutional Neural Network (CNN) implemented using PyTorch library. The repository includes files for training the model from scratch, evaluating the performance of the model by loading pre-trained weights, and the neural network architecture. The randomly generated shapes (like: circle, square, and rectangle) dataset is used for training the model.
 
 ## Repository Files
