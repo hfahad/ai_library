@@ -129,7 +129,7 @@ if __name__ == "__main__":
 
     # Add argument for number of epochs
     parser.add_argument("--epochs", type=int,
-                        dest="nb_epochs", default=5,
+                        dest="nb_epochs", default=15,
                         help="number of iterations")
 
     # Add argument for data folder
